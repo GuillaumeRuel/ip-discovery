@@ -1,0 +1,23 @@
+{
+  "name": "ip-discovery",
+  "version": "1.0.0",
+  "description": "ip-discovery-api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/api.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuillaumeRuel/ip-discovery.git"
+  },
+  "author": "Guillaume Ruel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuillaumeRuel/ip-discovery/issues"
+  },
+  "homepage": "https://github.com/GuillaumeRuel/ip-discovery#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
